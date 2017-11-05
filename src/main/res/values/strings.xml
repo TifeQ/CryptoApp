@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CrptoApp</string>
+
+    <string-array name="choose">
+        <item>  </item>
+        <item>Bitcoin</item>
+        <item>Ethereum</item>
+    </string-array>
+</resources>
